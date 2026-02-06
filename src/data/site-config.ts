@@ -1,0 +1,88 @@
+import avatar from '../assets/images/avatar.jpg';
+import hero from '../assets/images/hero.jpg';
+import portada from '../assets/images/portadaluis.png';
+import miniatura from '../assets/images/miniaturaluis.png';
+import readme from '../assets/images/readme.png';
+import type { SiteConfig } from '../types';
+
+const siteConfig: SiteConfig = {
+    website: 'https://luislazorios.github.io',
+    miniatura: {
+        src: miniatura,
+        alt: 'Luis Lazo'
+    },
+    title: 'Luis Lazo',
+    subtitle: 'TI Technician',
+    description: 'Resume and Portfolio',
+    image: {
+        src: readme,
+        alt: 'Luis theme'
+    },
+    headerNavLinks: [
+        {
+            text: 'Home',
+            href: '/'
+        },
+        {
+            text: 'Certifications',
+            href: '/projects'
+        },
+       
+        {
+            text: 'Tags',
+            href: '/tags'
+        }
+    ],
+    footerNavLinks: [
+        {
+            text: 'About',
+            href: '/about'
+        },
+        {
+            text: 'Contact',
+            href: '/contact'
+        },
+        {
+            text: 'Terms',
+            href: '/terms'
+        },
+    
+    ],
+    socialLinks: [
+        {
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/luislazo-cp/'
+        },
+        {
+            text: 'Instagram',
+            href: 'https://instagram.com/lusholr'
+        },
+        
+    ],
+    hero: {
+        title: 'Hi There & Welcome to My Corner of the Web!',
+        text: "I'm Luis Lazo, an IT intern at CMIT Solutions of Sandy in Utah (Remote), pursuing a Bachelor of Applied Science in Information Technology through BYU Pathway and Ensign College.\n\nIn the internship I develop skills in:\n **IT Support**: Ticketing with AutoTask, ITGlue, Sophos cybersecurity\n- **Business Ops**: Integrations, project management (Scrum/SMART)\n\n Feel free to explore some of my coding endeavors on [GitHub](https://github.com/luislazorios",
+        image: {
+            src: portada,
+            alt: 'A person sitting at a desk in front of a computer'
+        },
+        actions: [
+            {
+                text: 'Get in Touch',
+                href: '/contact'
+            }
+        ]
+    },
+    subscribe: {
+        enabled: true,
+        title: 'Subscribe to Luis Newsletter',
+        text: 'One update per week. All the latest posts directly in your inbox.',
+        form: {
+            action: '#'
+        }
+    },
+    postsPerPage: 8,
+    projectsPerPage: 8
+};
+
+export default siteConfig;
