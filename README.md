@@ -1,6 +1,6 @@
 # Hi there I'm Luis Lazo Rios
 
-Luis is a BYU-Pathway student advancing through Technical Support Engineer → IT Fundamentals → IT Professional certificates, mastering AWS cloud, ticketing systems (AutoTask/ITGlue), and cybersecurity tools alongside his IT internship at CMIT Solutions in Santiago, Chile.
+Luis is a BYU-Pathway student advancing through Technical Support Engineer → IT Fundamentals → IT Professional certificates, mastering AWS cloud, ticketing systems (AutoTask/ITGlue), and cybersecurity tools alongside his IT internship at CMIT Solutions in UTAH ,USA.
 
 <div align="center">
 
