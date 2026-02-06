@@ -8,7 +8,7 @@ Luis is a BYU-Pathway student advancing through Technical Support Engineer → I
 
 </div>
 
- [MY BLOG)](https://luislazorios.github.io)
+ [MY BLOG](https://luislazorios.github.io)
  
 Clicking the button above ☝️ you will know more about me
 
