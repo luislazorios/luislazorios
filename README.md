@@ -21,7 +21,7 @@ CERTIFICATES 📜 (Click to verify)
 * [TECHNICAL SUPPORT ENGINEER CERTIFICATE](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fwww.parchment.com%2Fu%2Fs%2FWZWA&urlhash=AF_F&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BtRbVgyIDQ5qF6ehiwJn%2BJA%3D%3D)  
 * [LinkedIn and TestOut Certifications](https://www.linkedin.com/in/luislazo-cp/details/certifications/) 🎓  
 
-Programas:  
+Softwares:  
 - MySQLServer  
 - Pyhon  
 - Sophos  
